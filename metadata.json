@@ -1,0 +1,6 @@
+{
+  "name": "AI Project Workspace",
+  "description": "An interactive AI-powered project workspace to plan, blueprint, and direct development roadmaps with expert companion agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
